@@ -23,6 +23,7 @@ public class SampleClass {
 		SampleClass s = new SampleClass();
 		s.sum();
 		s.mul();
+		s.sub();
 	}
 
 }
