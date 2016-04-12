@@ -8,10 +8,14 @@ public class SampleClass {
 		int c = a + b;
 		System.out.println(c);
 	}
+	public void sub() {
+		int c = a - b;
+		System.out.println(c);
+	}
 
 	public void mul() {
-		int d = a * b;
-		System.out.println(d);
+		int c = a * b;
+		System.out.println(c);
 	}
 
 	public static void main(String[] args) {
